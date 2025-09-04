@@ -1,2 +1,2 @@
 # SpaceBastion
-For our university project SpaceBastion, I developed the weather and lighting systems: a dynamic rain effect that brings atmosphere and immersion to the game world, and a rotating light source that creates shifting highlights and shadows for greater visual depth.
+In our university group project SpaceBastion, I was responsible for developing the weather and lighting systems. I created a particle-based rain system that adds atmosphere and immersion to the game world, making the environment feel more alive and dynamic. Additionally, I implemented a rotating light source that casts shifting highlights and shadows across the map, enhancing visual depth and mood.
